@@ -20,7 +20,13 @@
 
   Compile time very efficient REGEX
   
+* https://github.com/xroche/stringswitch
+
+  Efficient switch on string
+
   
 ## Functional C++
 
-TODO
+* https://github.com/arximboldi/lager
+  
+  Value-oriented design using the unidirectional data-flow architecture
