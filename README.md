@@ -13,6 +13,9 @@
 
   For a close implementation of `std::variant` and `std::optional` (in C++17) available with C++14
   
+* https://github.com/ericniebler/range-v3
+
+  Range library for C++14/17/20, basis for C++20's std::ranges
   
 ## C++17
 
