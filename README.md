@@ -30,3 +30,9 @@
 * https://github.com/arximboldi/lager
   
   Value-oriented design using the unidirectional data-flow architecture
+
+* https://github.com/arximboldi/immer
+  
+  Postmodern immutable and persistent data structures for C++
+
+
