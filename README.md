@@ -26,7 +26,10 @@
 * https://github.com/xroche/stringswitch
 
   Efficient switch on string
+  
+* https://github.com/Neargye/magic_enum
 
+  Enum static reflection 
   
 ## Functional C++
 
