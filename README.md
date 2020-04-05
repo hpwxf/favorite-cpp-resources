@@ -47,3 +47,7 @@
  * http://realtimecollisiondetection.net/blog/?p=78
  * https://bits.stephan-brumme.com
  * http://aggregate.org/MAGIC/
+
+## Book references
+
+ * https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?answertab=active#tab-top
