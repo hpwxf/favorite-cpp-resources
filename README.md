@@ -41,4 +41,9 @@
   
   Postmodern immutable and persistent data structures for C++
 
+## Bits operations
 
+ * http://graphics.stanford.edu/~seander/bithacks.html
+ * http://realtimecollisiondetection.net/blog/?p=78
+ * https://bits.stephan-brumme.com
+ * http://aggregate.org/MAGIC/
