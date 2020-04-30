@@ -51,3 +51,7 @@
 ## Book references
 
  * https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list?answertab=active#tab-top
+
+## List of lists
+
+ * https://github.com/fffaraz/awesome-cpp
