@@ -55,3 +55,5 @@
 ## List of lists
 
  * https://github.com/fffaraz/awesome-cpp
+ 
+ * https://github.com/rigtorp/awesome-modern-cpp
