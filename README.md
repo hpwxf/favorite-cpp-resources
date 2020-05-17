@@ -62,7 +62,7 @@
   * https://github.com/toby-allsopp/coroutine_monad
   * https://github.com/dkormalev/cefal (C++20)
   * https://github.com/dkormalev/asynqro
-  * https://github.com/BartoszMilewski/Okasaki (https://github.com/BartoszMilewski/Okasaki/raw/872408f10d0c3de0e0ab66140afdd10fe5cf0b23/Functional%20Data%20Structures.key)
+  * https://github.com/BartoszMilewski/Okasaki ([aside talk](https://github.com/BartoszMilewski/Okasaki/raw/872408f10d0c3de0e0ab66140afdd10fe5cf0b23/Functional%20Data%20Structures.key))
   * https://github.com/graninas/cpp_stm_free
   * https://github.com/loopperfect/neither
 
