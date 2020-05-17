@@ -45,15 +45,27 @@
   
   Postmodern immutable and persistent data structures for C++
   
-* https://github.com/Dobiasd/FunctionalPlus/blob/master/README.md
+* https://github.com/Dobiasd/FunctionalPlus
 
-  
+  Functional Programming Library for C++.
 
 * https://github.com/graninas/cpp_functional_programming
 
   List of materials about functional programming in C++
   
-  
+* https://github.com/TartanLlama/expected
+
+  C++11/14/17 std::expected with functional-style extensions
+
+* Good samples (need more analysis)
+  * https://gist.github.com/splinterofchaos/4112114
+  * https://github.com/toby-allsopp/coroutine_monad
+  * https://github.com/dkormalev/cefal (C++20)
+  * https://github.com/dkormalev/asynqro
+  * https://github.com/BartoszMilewski/Okasaki (https://github.com/BartoszMilewski/Okasaki/raw/872408f10d0c3de0e0ab66140afdd10fe5cf0b23/Functional%20Data%20Structures.key)
+  * https://github.com/graninas/cpp_stm_free
+  * https://github.com/loopperfect/neither
+
 
 ## Bits operations
 
