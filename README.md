@@ -7,7 +7,7 @@
     
 * https://github.com/catchorg/Catch2.git
 
-  For testiing
+  For testing
  
 * https://github.com/mapbox/variant.git
 
@@ -16,6 +16,10 @@
 * https://github.com/ericniebler/range-v3
 
   Range library for C++14/17/20, basis for C++20's std::ranges
+  
+* https://github.com/gabime/spdlog
+
+  Fast C++ logging library.
   
 ## C++17
 
@@ -31,7 +35,7 @@
 
   Enum static reflection 
   
-## Functional C++
+## Functional Programming in C++
 
 * https://github.com/arximboldi/lager
   
@@ -40,6 +44,16 @@
 * https://github.com/arximboldi/immer
   
   Postmodern immutable and persistent data structures for C++
+  
+* https://github.com/Dobiasd/FunctionalPlus/blob/master/README.md
+
+  
+
+* https://github.com/graninas/cpp_functional_programming
+
+  List of materials about functional programming in C++
+  
+  
 
 ## Bits operations
 
