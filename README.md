@@ -90,4 +90,5 @@
 
 # unexpected optimizations
 
-* [Three Optimization Tips For C++ by Andrei Alexandrescu](https://archive.org/details/AndreiAlexandrescu-Three-Optimization-Tips) [pdf](https://ia801703.us.archive.org/3/items/AndreiAlexandrescu-Three-Optimization-Tips/Main-slides.pdf)
+* ["Three Optimization Tips For C++" by Andrei Alexandrescu](https://archive.org/details/AndreiAlexandrescu-Three-Optimization-Tips) [pdf](https://ia801703.us.archive.org/3/items/AndreiAlexandrescu-Three-Optimization-Tips/Main-slides.pdf)
+* [“Speed Is Found In The Minds of People" by Andrei Alexandrescu](https://youtu.be/FJJTYQYB1JQ) [pdf](https://github.com/CppCon/CppCon2019/blob/master/Presentations/speed_is_found_in_the_minds_of_people/speed_is_found_in_the_minds_of_people__andrei_alexandrescu__cppcon_2019.pdf)
