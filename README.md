@@ -87,3 +87,7 @@
 ## Ref cards
 
 * GDB/LLDB command command map : https://lldb.llvm.org/use/map.html
+
+# unexpected optimizations
+
+* [Three Optimization Tips For C++ by Andrei Alexandrescu](https://archive.org/details/AndreiAlexandrescu-Three-Optimization-Tips) [pdf](https://ia801703.us.archive.org/3/items/AndreiAlexandrescu-Three-Optimization-Tips/Main-slides.pdf)
