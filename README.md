@@ -45,6 +45,10 @@
   
   Postmodern immutable and persistent data structures for C++
   
+* https://github.com/serge-sans-paille/frozen
+
+  Header-only library that provides 0 cost initialization for immutable containers, fixed-size containers, and various algorithms.
+  
 * https://github.com/Dobiasd/FunctionalPlus
 
   Functional Programming Library for C++.
