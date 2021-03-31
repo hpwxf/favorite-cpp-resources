@@ -84,6 +84,13 @@
   * https://github.com/graninas/cpp_stm_free
   * https://github.com/loopperfect/neither
 
+## Tools
+
+### Profiler
+
+* https://github.com/yse/easy_profiler
+* https://github.com/bombomby/optick
+* https://github.com/wolfpld/tracy
 
 ## Bits operations
 
