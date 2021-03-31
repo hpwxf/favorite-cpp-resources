@@ -33,7 +33,21 @@
   
 * https://github.com/Neargye/magic_enum
 
-  Enum static reflection 
+  Enum static reflection
+  
+## Alternative STL
+
+* https://github.com/facebook/folly
+
+  Facebook Open-source Library
+  
+* https://github.com/electronicarts/EASTL
+
+  Electronic Arts Standard Template Library
+  
+* https://github.com/bloomberg/bde/tree/master/groups/bsl
+
+  BSL (Basic Standard Library) part of BDE Libraries
   
 ## Functional Programming in C++
 
