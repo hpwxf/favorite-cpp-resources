@@ -92,6 +92,10 @@
 * https://github.com/bombomby/optick
 * https://github.com/wolfpld/tracy
 
+### Experimental
+
+* Reflection with Circle : https://www.circle-lang.org
+
 ## Bits operations
 
  * http://graphics.stanford.edu/~seander/bithacks.html
