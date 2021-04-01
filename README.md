@@ -92,6 +92,10 @@
 * https://github.com/bombomby/optick
 * https://github.com/wolfpld/tracy
 
+### Benchmark
+
+* https://github.com/google/benchmark
+
 ### Experimental
 
 * Reflection with Circle : https://www.circle-lang.org
