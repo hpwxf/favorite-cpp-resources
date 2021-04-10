@@ -89,8 +89,25 @@
 ### Profiler
 
 * https://github.com/yse/easy_profiler
-* https://github.com/bombomby/optick
+  * available in [conan](https://conan.io/center/easy_profiler)
+  * to build it on macOS, use:
+  ```
+  cmake -DCMAKE_PREFIX_PATH=/usr/local/Cellar/qt@5/5.15.2 -DCMAKE_CXX_COMPILER=g++-9 -DCMAKE_C_COMPILER=gcc-9 -DCMAKE_BUILD_TYPE="Release" ..
+  ```
+
 * https://github.com/wolfpld/tracy
+  * to build it on macOS, use:
+  ```
+  brew install freetype capstone gtk glfw
+  make -C profiler/build/unix release
+  ```
+  * to build it on Linux Ubuntu 20.02, use:
+  ```
+  apt install libcapstone-dev libtbb-dev libglfw3-dev libfreetype6-dev libgtk-3-dev
+  make -C profiler/build/unix release  
+  ```
+
+* https://github.com/bombomby/optick
 
 ### Benchmark
 
