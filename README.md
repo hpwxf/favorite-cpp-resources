@@ -49,6 +49,12 @@
 
   BSL (Basic Standard Library) part of BDE Libraries
   
+* https://github.com/abseil/abseil-cpp
+
+  Abseil : C++ Common Libraries: 
+  
+  *[...] designed to augment the C++ standard library [...] collected from Google's own C++ code base*
+  
 ## Functional Programming in C++
 
 * https://github.com/arximboldi/lager
