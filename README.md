@@ -1,29 +1,41 @@
 # favorite-cpp-resources
 
 ## C++14 libs
-* https://github.com/fmtlib/fmt
+* https://github.com/fmtlib/fmt [conan](https://conan.io/center/fmt)
 
   `std::format` from C++20 available in C++14
     
-* https://github.com/catchorg/Catch2.git
+* https://github.com/catchorg/Catch2.git [conan](https://conan.io/center/catch2)
 
-  For testing
+  For unit testing
+  
+* https://github.com/google/googletest [conan](https://conan.io/center/gtest)
+
+  For unit testing and mocking
+  
+* https://github.com/eranpeer/FakeIt [conan](https://conan.io/center/fakeit)
+
+  For mocking
+  
+* https://github.com/rollbear/trompeloeil [conan](https://conan.io/center/trompeloeil)
+
+  For mocking
  
 * https://github.com/mapbox/variant.git
 
   For a close implementation of `std::variant` and `std::optional` (in C++17) available with C++14
   
-* https://github.com/ericniebler/range-v3
+* https://github.com/ericniebler/range-v3 [conan](https://conan.io/center/range-v3)
 
   Range library for C++14/17/20, basis for C++20's std::ranges
   
-* https://github.com/gabime/spdlog
+* https://github.com/gabime/spdlog [conan](https://conan.io/center/spdlog)
 
   Fast C++ logging library.
   
 ## C++17
 
-* https://github.com/hanickadot/compile-time-regular-expressions
+* https://github.com/hanickadot/compile-time-regular-expressions [conan](https://conan.io/center/ctre)
 
   Compile time very efficient REGEX
   
@@ -31,17 +43,17 @@
 
   Efficient switch on string
   
-* https://github.com/Neargye/magic_enum
+* https://github.com/Neargye/magic_enum [conan](https://conan.io/center/magic_enum)
 
   Enum static reflection
   
 ## Alternative STL
 
-* https://github.com/facebook/folly
+* https://github.com/facebook/folly [conan](https://conan.io/center/folly)
 
   Facebook Open-source Library
   
-* https://github.com/electronicarts/EASTL
+* https://github.com/electronicarts/EASTL [conan](https://conan.io/center/eastl)
 
   Electronic Arts Standard Template Library
   
@@ -49,7 +61,7 @@
 
   BSL (Basic Standard Library) part of BDE Libraries
   
-* https://github.com/abseil/abseil-cpp
+* https://github.com/abseil/abseil-cpp [conan](https://conan.io/center/abseil)
 
   Abseil : C++ Common Libraries: 
   
@@ -65,7 +77,7 @@
   
   Postmodern immutable and persistent data structures for C++
   
-* https://github.com/serge-sans-paille/frozen
+* https://github.com/serge-sans-paille/frozen [conan](https://conan.io/center/frozen)
 
   Header-only library that provides 0 cost initialization for immutable containers, fixed-size containers, and various algorithms.
   
@@ -94,8 +106,7 @@
 
 ### Profiler
 
-* https://github.com/yse/easy_profiler
-  * available in [conan](https://conan.io/center/easy_profiler)
+* https://github.com/yse/easy_profiler [conan](https://conan.io/center/easy_profiler)
   * to build it on macOS, use:
   ```
   cmake -DCMAKE_PREFIX_PATH=/usr/local/Cellar/qt@5/5.15.2 -DCMAKE_CXX_COMPILER=g++-9 -DCMAKE_C_COMPILER=gcc-9 -DCMAKE_BUILD_TYPE="Release" ..
