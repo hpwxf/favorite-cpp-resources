@@ -128,7 +128,7 @@
 
 ### Benchmark
 
-* https://github.com/google/benchmark
+* https://github.com/google/benchmark [[conan]](https://conan.io/center/benchmark)
 
 ### Experimental
 
